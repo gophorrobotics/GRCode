@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/slistudent/Downloads/ftc_app-3.4/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/slistudent/Downloads/ftc_app-3.4/FtcRobotController/build/intermediates/bundles/default/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/slistudent/Downloads/ftc_app-3.4/TeamCode/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_shape.xml",
+        "source": "/Users/slistudent/.android/build-cache/98727db48351b12d12fa482a85fbbd62546cd75e/output/res/drawable-hdpi-v4/button_shape.xml"
+    }
+]

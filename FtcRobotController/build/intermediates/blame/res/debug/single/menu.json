@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/slistudent/Downloads/ftc_app-3.4/FtcRobotController/build/intermediates/res/merged/debug/menu/ftc_robot_controller.xml",
+        "source": "/Users/slistudent/Downloads/ftc_app-3.4/FtcRobotController/src/main/res/menu/ftc_robot_controller.xml"
+    },
+    {
+        "merged": "/Users/slistudent/Downloads/ftc_app-3.4/FtcRobotController/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/slistudent/.android/build-cache/74604ff9ef7735ff7601647807a2fcd25f46fac7/output/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/slistudent/Downloads/ftc_app-3.4/FtcRobotController/build/intermediates/res/merged/debug/menu/menu_server.xml",
+        "source": "/Users/slistudent/.android/build-cache/eaaa5a6e589dbb0e27a8d574766c88bcbea145e2/output/res/menu/menu_server.xml"
+    }
+]
